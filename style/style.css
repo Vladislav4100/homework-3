@@ -1,0 +1,18 @@
+@import url('styleartickes.css');
+
+body {
+	background-image:url(../images/book.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position:center,left;
+	background-size: auto; 
+}
+
+h1 {
+	color:orange;
+}
+
+li.menu {
+	display:inline;
+	background-color: green;
+}
